@@ -42,14 +42,14 @@ function updateClock() {
         // 6:00 AM to 5:59 PM
         // Morning/day floral background
         document.body.style.backgroundImage =
-            "url('images/morning-floral.png')";
+            "url('morning-floral.png')";
 
     } else {
 
         // 6:00 PM to 5:59 AM
         // Night floral background
         document.body.style.backgroundImage =
-            "url('images/night-floral.png')";
+            "url('night-floral.png')";
     }
 }
 
